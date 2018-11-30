@@ -5,6 +5,7 @@ import json
 # config
 ignore_institution = False
 ignore_zero_solve = True
+# Urumqi (2017) is ignored due to contest time adjustment and many teams had quited or changed team member
 ignore_contest = ["Urumqi"]
 max_contest = 3
 # ~config
